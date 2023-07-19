@@ -7,18 +7,13 @@
 
 
 ## 저의 정보와 연락처를 알려드립니다!!
-<div class="left__body__profile">
-                            <a href="https://www.instagram.com/mate_10_05/">
+<a href="https://www.instagram.com/mate_10_05/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-                            </div>
-                            <div class="profile__detail">
-                                <i class="fas fa-envelope-square"></i>
-                                
-                            </div>
-                            <div class="profile__detail">
-                                <i class="fas fa-images"></i>
-                                🚣 여행중
+<a href="https:/https://www.facebook.com/profile.php?id=100004325081658">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbBKi9o%2FbtrTQvSrPAx%2F8nHV5wimJM7ndFgx1uomfK%2Fimg.png" />
+</a>
+  
                             </div>
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
