@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/mate_10_05/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https:/https://www.facebook.com/profile.php?id=100004325081658">
+<a href="https://www.facebook.com/profile.php?id=100004325081658">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbBKi9o%2FbtrTQvSrPAx%2F8nHV5wimJM7ndFgx1uomfK%2Fimg.png" />
 </a>
   
