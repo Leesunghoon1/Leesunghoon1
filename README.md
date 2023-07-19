@@ -29,7 +29,7 @@
 <br>
 
 
-## 제가 지금 사용중인 스킬을 알려드립니다.
+# 제가 지금 사용중인 스킬을 알려드립니다.
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=css&fill=ffc0cd)
 ![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=70)
 ![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=70)
