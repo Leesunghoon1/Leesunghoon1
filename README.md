@@ -38,9 +38,9 @@
 # 제가 지금 사용중인 스킬을 알려드립니다.
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=css&fill=ffc0cd)
 ![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=70)
-![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=70)
-![MySql progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=MySql&value=70)
-![JavaSpring progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaSpring&value=70)
+![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=50)
+![MySql progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=MySql&value=80)
+![JavaSpring progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaSpring&value=60)
 ![Git/GitHub progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Git/GitHub&value=70)
 ![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=70)
 
