@@ -4,7 +4,7 @@
 ![experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20academy%20student&duration=12m&location=Bucheon&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 <br>
 
-에러처리를 통해 REST API 과 SQL CALL을 최소화 시켜 비용최적화를 만드고 라이브러리를 선택할 때는 신중하고 숫자와 호환성을 생각하는 백엔드 엔지니어 이성훈입니다.
+에러처리를 통해 REST API 과 SQL을 활용하여 비용최적화 및 뷰를 이용한 빠른 속도를 활용 및 라이브러리를 선택할 때는 신중하고 숫자와 호환성을 생각하는 백엔드 엔지니어 이성훈입니다.
   
 
 
