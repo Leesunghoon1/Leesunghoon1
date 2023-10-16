@@ -3,7 +3,8 @@
 # 이성훈 | 백엔드 개발자 신입입니다. 👦
 ![experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20academy%20student&duration=12m&location=Bucheon&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 <br>
-에러처리를 통해 REST API 과 SQL CALL을 최소화 시켜 비용최적화를 만드는 백엔드 엔지니어 양동준입니다.
+
+에러처리를 통해 REST API 과 SQL CALL을 최소화 시켜 비용최적화를 만드는 백엔드 엔지니어 이성훈입니다.
   
 
 
