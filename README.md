@@ -3,7 +3,7 @@
 # 이성훈 | 백엔드 개발자 신입입니다. 👦
 ![experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20academy%20student&duration=12m&location=Bucheon&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 <br>
-안녕하세요.
+에러처리를 통해 REST API 과 SQL CALL을 최소화 시켜 비용최적화를 만드는 백엔드 엔지니어 양동준입니다.
   
 
 
@@ -44,9 +44,27 @@
 ![Git/GitHub progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Git/GitHub&value=70)
 ![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=70)
 
+<br>
 
 
+# 학력
+양천고등학교 / 졸업
+2012 ~ 2015 졸업 <br>
+관동대학교 / 자퇴
+2015 ~ 2016 자퇴 <br>
+방송통신대학교 / 2학년
+2023-08-15 ~~ <br>
 
+# 교육연수
+이젠 아카데미(인천) / 빅데이터 웹 플랫폼 풀스택 개발(프론트엔드,백엔드)_A
+2023-05-23 ~ 2023-12-27
+
+# 프로젝트
+# Coming soon 🚀
+
+# 자격증
+Mysql <br>
+정보처리기능사 필기
 
 
 
