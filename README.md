@@ -44,7 +44,6 @@
 ![JavaSpring progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaSpring&value=60)
 ![Git/GitHub progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Git/GitHub&value=70)
 ![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=70)
-![Docker progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JSP&value=30)
 
 <br>
 
