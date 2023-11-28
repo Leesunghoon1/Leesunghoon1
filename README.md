@@ -63,7 +63,12 @@
 2023-05-23 ~ 2023-12-27
 
 # 프로젝트
-Coming soon 🚀
+<h3>LandMark 프로젝트</h3>
+ - 결제 파트(API) 구현 및 프론트(화면) 구현
+ - 배포링크 : Coming soon 🚀
+ - 프론트 : css, js, jsp
+ - 백엔드 : sts, mysql
+ 
 
 # 자격증
 sqld자격증 <br>
