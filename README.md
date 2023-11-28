@@ -63,11 +63,14 @@
 2023-05-23 ~ 2023-12-27
 
 # 프로젝트
-<h3>LandMark 프로젝트</h3>
- - 결제 파트(API) 구현 및 프론트(화면) 구현
- - 배포링크 : Coming soon 🚀
- - 프론트 : css, js, jsp
- - 백엔드 : sts, mysql
+<h3>LandMark 프로젝트</h3> <br>
+ - 결제 파트(API) 구현 및 프론트(화면) 구현 <br>
+ - 배포링크 : Coming soon 🚀<br>
+ - 프론트 : css, js, jsp <br>
+ - 백엔드 : sts, mysql <br>
+ - 시퀀스 다이어그램 :
+ <img width="800" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/342e6c43-8f68-414c-933c-e995adcffdbc">
+
  
 
 # 자격증
