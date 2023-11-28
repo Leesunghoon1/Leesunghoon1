@@ -37,15 +37,19 @@
 
 
 # 제가 지금 사용중인 스킬을 알려드립니다.
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=css&fill=ffc0cd)
-![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=HTML&fill=ffc0cd)
-![JSP progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=80&skill=JSP&fill=ffc0cd)
-![MySql progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=MySql&value=80)
-![Oracle progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Oracle&value=80)
-![MariaDB](https://readme-components.vercel.app/api?component=linearprogress&skill=MariaDB&value=70)
-![JavaSpring progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaSpring&value=80)
-![Git/GitHub progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Git/GitHub&value=70)
-![Spring Boot](https://readme-components.vercel.app/api?component=linearprogress&skill=SpringBoot&value=70)
+<img width="110" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/840867bf-3528-4e3b-a0bd-abb27712dc70">
+<img width="70" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/07006601-aa66-4d8f-bd0a-c026975c0498">
+<img width="80" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/0597a700-2a61-4d5b-a9f2-04b3a95d719f">
+<img width="80" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/96d4fbb0-8aee-475a-9070-6bbf5f406d1c">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/dc257bff-63e7-4850-b3ae-bb5c61ebcff8">
+<br>
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/dcb16192-d80c-4208-8959-8ca6d8e63fdd">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/be4d0e0a-ef6d-48e2-96b7-30e59bbece14">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/c4249ae1-7dc4-44d8-9054-9ffbb89a3d82">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/d086e2eb-782a-4809-a709-2ef8d46886c62">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/f910ef13-f00c-4a72-9fe5-179902cc0818">
+<img width="90" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/9350eeb8-51ba-4bed-bbd6-eee1b2d4e123">
+
 
 <br>
 
@@ -67,7 +71,7 @@
  - 결제 파트(API) 구현 및 프론트(화면) 구현 <br>
  - 배포링크 : Coming soon 🚀<br>
  - 프론트 : css, js, jsp <br>
- - 백엔드 : sts, mysql <br>
+ - 백엔드 : sts, mysql <br><br>
  - 시퀀스 다이어그램 :
  <img width="800" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/342e6c43-8f68-414c-933c-e995adcffdbc">
 
