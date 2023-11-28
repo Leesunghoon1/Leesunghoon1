@@ -71,10 +71,14 @@
  - 결제 파트(API) 구현 및 프론트(화면) 구현 <br>
  - 배포링크 : Coming soon 🚀<br>
  - 프론트 : css, js, jsp <br>
- - 백엔드 : sts, mysql <br><br>
+ - 백엔드 : Spring, mysql <br><br>
  - 시퀀스 다이어그램 :
  <img width="800" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/342e6c43-8f68-414c-933c-e995adcffdbc">
 
+
+
+ <h3>SubProject(Photogram)</h3
+ - 백엔드 : Spring Boot, mariaDB
  
 
 # 자격증
