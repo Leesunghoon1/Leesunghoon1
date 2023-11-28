@@ -75,10 +75,9 @@
  - 시퀀스 다이어그램 :
  <img width="800" alt="image" src="https://github.com/Leesunghoon1/Leesunghoon1/assets/138201555/342e6c43-8f68-414c-933c-e995adcffdbc">
 
-
-
- <h3>SubProject(Photogram)</h3
- - 백엔드 : Spring Boot, mariaDB
+# SubProject
+ <h3>Photogram</h3>
+ - 백엔드 : Spring Boot, mariaDB, JPA
  
 
 # 자격증
